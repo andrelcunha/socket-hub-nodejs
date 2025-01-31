@@ -16,7 +16,7 @@ A real-time chat application implemented in Node.js, using WebSockets for real-t
 ## Running the Application from Code
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/socket-hub-nodejs.git
+    git clone https://github.com/andrelcunha/socket-hub-nodejs.git
     cd socket-hub-nodejs
     ```
 

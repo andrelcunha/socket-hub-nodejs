@@ -24,9 +24,7 @@ wss.on('connection', (ws) => {
 
 function broadcastMessage(data, senderId) {
     clients.forEach((client, id) => {
-        if (id !== senderId) {
-            client.send(JSON.stringify(data));
-        }
+        client.send(JSON.stringify(data));
     });
 }
 

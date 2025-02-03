@@ -6,8 +6,7 @@ A real-time chat application implemented in Node.js, using WebSockets for real-t
 - [Prerequisites](#prerequisites)
 - [Running the Application from Code](#running-the-application-from-code)
 - [Running the Application with Docker Compose](#running-the-application-with-docker-compose)
-- [Project Structure](#project-structure)
-- [License](#license)
+
 
 ## Prerequisites
 - **Node.js**: [Download and install Node.js](https://nodejs.org/)
